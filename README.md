@@ -1,4 +1,5 @@
 # Example Class Orelvis
-## Example Class on September
+
+**Event Date** September 14
 
 Sample repository hhhhhhhhhhh
